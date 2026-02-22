@@ -1,49 +1,47 @@
-## Hi there 👋
-
-Hello...I'm Carlos Almeida
+## Hi, I’m Carlos Almeida
+**Network & Security Engineer** | Fortinet Firewalls & SD-WAN Labs | Cisco Networking | Hybrid & Cloud Lab Enthusiast
 
 <a href="https://www.linkedin.com/in/carlos-almeida-604b9b10a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
-I have spent the last 18 years living and breathing IT. I started on the helpdesk during Angola’s first electronic elections, supporting card printers, computers, 
-networking, and application issues. My passion for technology quickly led me to become a Trainer, where I spent 10 years ensuring students enjoyed and excelled in IT.
-While teaching, I was climbing roofs to install Yahclick VSAT antennas and PTP/PTMP wireless networks to keep businesses connected, building and managing the core
-infrastructure that keeps a business running. After nearly two decades of making sure the lights stay on, I have realized my passion of "Protecting the house" isn't 
-dead yet. I'm moving my focus entirely into Cybersecurity and SOC operations. As every new venture requires sacrifices, ups and downs and hopefully it gonna be enjoyable, 
-worthy and rewardable.
+18+ years in IT (high school IT teaching, support & basic networking, last 10 years focused on professional Networking & Security)
+Hands-on expertise in Fortinet firewalls, Cisco routing & switching, and hybrid lab environments.  
+I design, deploy, and secure network infrastructures — from branch/edge setups to lab-based cloud simulations — with a focus on reliability, connectivity, and security.
+
+### 🛡️ Core Competencies
+- Fortinet Firewall Administration & Edge Security
+- Cisco Routing & Switching (CCNA-level)
+- Network Segmentation & VPN Architectures
+- Hybrid Lab Design & Network Simulations
+- Cloud Security Fundamentals (Azure)
+- Incident Detection & Log Review (basic SOC practice)
+
+### 🖥️  Home Lab Arsenal
+- **Firewalls:** 2x FortiGate 60F (HA Cluster)
+- **Router:** Cisco ISR 4321 (Branch/Edge Simulation)
+- **Switch:** Cisco WS-C3560CX-12TC (Compact Enterprise Switch)
+- **Compute:** Mac Pro 2013 (Ubuntu + PNETLab)
+- **Cloud:** Azure Security Tenant
+- **Environment:** Hybrid lab for networking & security experiments
 
 
+### 🧪 Currently Exploring
+- Fortinet NSE5 & SD-WAN Labs
+- Azure Security Engineering Concepts
+- Splunk & Log Analysis Fundamentals
+- Security Operations & Detection Labs
 
+### 📂 Projects & Labs
+- Labs coming soon (PNETLab, Packet Tracer, FortiGate topologies, VPN setups)
 
-### 🛡️ Professional Certifications
-
+### 🏅 Certifications
 <p align="left">
-  <img src="https://img.shields.io/badge/Fortinet-NSE4-red?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE4" />
-  <img src="https://img.shields.io/badge/Fortinet-FCA-darkred?style=for-the-badge&logo=fortinet&logoColor=white" alt="FCA" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA-005FB8?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF8300?style=for-the-badge&logo=comptia&logoColor=white" alt="Sec+" />
-  <img src="https://img.shields.io/badge/CompTIA-Network%2B-FF8300?style=for-the-badge&logo=comptia&logoColor=white" alt="Net+" />
-  <img src="https://img.shields.io/badge/ISC2-CC%20Cybersecurity-64a70b?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC" />
+  <img src="https://img.shields.io/badge/Fortinet-NSE4-red?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-FCA-darkred?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA-005FB8?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF8300?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-FF8300?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISC2-CC%20Cybersecurity-64a70b?style=for-the-badge&logo=isc2&logoColor=white" />
 </p>
 
----
-
-[🔗 Connect with Carlos Almeida on LinkedIn](https://www.linkedin.com/in/carlos-almeida-604b9b10a/)
----
-
-[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/carlos-almeida-604b9b10a/)
-<!--
-**C00SEVEN/C00SEVEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
