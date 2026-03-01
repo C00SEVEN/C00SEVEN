@@ -14,7 +14,7 @@ I design, deploy, and secure network infrastructures — from branch/edge setups
 - Cisco Routing & Switching (CCNA-level)
 - Network Segmentation & VPN Architectures
 - Hybrid Lab Design & Network Simulations
-- Cloud Security Fundamentals (Azure)
+- Cloud Network and Security Fundamentals (Azure)
 - Incident Detection & Log Review (basic SOC practice)
 
 ### 🖥️  Home Lab Arsenal
@@ -27,13 +27,13 @@ I design, deploy, and secure network infrastructures — from branch/edge setups
 
 
 ### 🧪 Currently Exploring
-- Fortinet NSE5 & SD-WAN Labs
-- Azure Security Engineering Concepts
+- Fortinet NSE5 FAZ, FMG & SD-WAN Labs
+- Azure Network and Security Engineering Concepts
 - Splunk & Log Analysis Fundamentals
 - Security Operations & Detection Labs
 
 ### 📂 Projects & Labs
-- Labs coming soon (PNETLab, Packet Tracer, FortiGate topologies, VPN setups)
+- Labs coming soon (PNETLab, FortiGate topologies, VPN setups)
 
 ### 🏅 Certifications
 <p align="left">
