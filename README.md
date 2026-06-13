@@ -49,10 +49,10 @@ Recently expanded into cloud networking with Microsoft Azure (AZ-700 certified),
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-AZ--700-008AD7?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortinet-NSE4-red?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-FCA-darkred?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-CCNA-005FB8?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF8300?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-FF8300?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/ISC2-CC%20Cybersecurity-64a70b?style=for-the-badge&logo=isc2&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fortinet-FCA-darkred?style=for-the-badge&logo=fortinet&logoColor=white" />
 </p>
 
