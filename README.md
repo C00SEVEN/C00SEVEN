@@ -20,8 +20,9 @@ Recently expanded into cloud networking with Microsoft Azure (AZ-700 certified),
 - Infrastructure Troubleshooting
 
 ### ☁️ Cloud & Automation (Hands-on / Lab)
-- Microsoft Azure Networking (VNet, Hub-and-Spoke Topologies, Virtual WAN,  VPN Gateways, NSGs and Azure Load Balancers).
-- Terraform (Azure infrastructure automation – learning)
+- Microsoft Azure Networking (VNets, Hub-and-Spoke, VPN Gateway, NSGs, Load Balancers)
+- Hybrid Connectivity (On-prem ↔ Azure secure routing and VPN design)
+- Terraform (Azure Infrastructure as Code – hands-on lab deployments)
 - Git & CI/CD fundamentals
 
 ### 🖥️  Home Lab Arsenal
@@ -34,10 +35,10 @@ Recently expanded into cloud networking with Microsoft Azure (AZ-700 certified),
 - **Automation:** Terraform + GitHub
 
 
-### 🧪 Currently Exploring
-- Azure Landing Zones concepts
-- Terraform for Azure deployments
-- Azure Security (AZ-500 path)
+### 🧪 Currently Focus Areas
+- Azure Landing Zone architecture (enterprise design patterns)
+- Terraform automation for Azure networking deployments
+- Azure Security Engineering (AZ-500 preparation)
 
 ### 📂 Projects & Labs
 - Azure AZ-700 networking labs (VPN, routing, Load Balancers, NVA)
