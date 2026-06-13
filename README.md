@@ -1,5 +1,5 @@
 ## Hi, I’m Carlos Almeida
-**Network & Security Engineer** | Fortinet Firewalls & SD-WAN Labs | Cisco Networking | Hybrid & Cloud Lab Enthusiast
+** Network & Security Engineer | Azure Networking (AZ-700) | Fortinet | Cisco | Terraform (Labs)**
 
 <a href="https://www.linkedin.com/in/carlos-almeida-604b9b10a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
@@ -7,36 +7,50 @@
 
 18+ years in IT (high school IT teaching, support & basic networking, last 10 years focused on professional Networking & Security)
 Hands-on expertise in Fortinet firewalls, Cisco routing & switching, and hybrid lab environments.  
-I design, deploy, and secure network infrastructures — from branch/edge setups to lab-based cloud simulations — with a focus on reliability, connectivity, and security.
+
+Recently expanded into cloud networking with Microsoft Azure (AZ-700 certified), focusing on hybrid connectivity, network security, and cloud-based infrastructure design using hands-on lab environments and Terraform automation.
 
 ### 🛡️ Core Competencies
-- Fortinet Firewall Administration & Edge Security
-- Cisco Routing & Switching (CCNA-level)
+
+- Cisco Routing & Switching (Enterprise Networking)
+
+### 🛡️ Core Competencies
+- Cisco Routing & Switching
+- Fortinet Firewall Administration & Security Policy Design
 - Network Segmentation & VPN Architectures
-- Hybrid Lab Design & Network Simulations
-- Cloud Network and Security Fundamentals (Azure)
-- Incident Detection & Log Review (basic SOC practice)
+- Hybrid Networking (On-prem ↔ Azure - Lab based)
+- Azure Networking Fundamentals (AZ-700 aligned)
+- Cloud Security Concepts
+- Infrastructure Troubleshooting
+
+### ☁️ Cloud & Automation (Hands-on / Lab)
+- Microsoft Azure Networking (VNet, Hub-and-Spoke Topologies, Virtual WAN,  VPN Gateways, NSGs and Azure Load Balancers).
+- Terraform (Azure infrastructure automation – learning)
+- Git & CI/CD fundamentals
 
 ### 🖥️  Home Lab Arsenal
 - **Firewalls:** 2x FortiGate 60F (HA Cluster)
 - **Router:** Cisco ISR 4321 (Branch/Edge Simulation)
 - **Switch:** Cisco WS-C3560CX-12TC (Compact Enterprise Switch)
-- **Compute:** Mac Pro 2013 (Ubuntu + PNETLab)
-- **Cloud:** Azure Security Tenant
+- **Compute:** Mac Pro 2013 (Proxmox/PNETLab virtualization environment)
+- **Cloud:** Azure Lab Subscription
 - **Environment:** Hybrid lab for networking & security experiments
+- **Automation:** Terraform + GitHub
 
 
 ### 🧪 Currently Exploring
-- Fortinet NSE5 FAZ, FMG & SD-WAN Labs
-- Azure Network and Security Engineering Concepts
-- Splunk & Log Analysis Fundamentals
-- Security Operations & Detection Labs
+- Azure Landing Zones concepts
+- Terraform for Azure deployments
+- Azure Security (AZ-500 path)
 
 ### 📂 Projects & Labs
-- Labs coming soon (PNETLab, FortiGate topologies, VPN setups)
+- Azure AZ-700 networking labs (VPN, routing, Load Balancers, NVA)
+- Hybrid connectivity simulations (on-prem ↔ Azure)
+- FortiGate security lab environments
 
 ### 🏅 Certifications
 <p align="left">
+  <img src="https://img.shields.io/badge/Azure-AZ--700-008AD7?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortinet-NSE4-red?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortinet-FCA-darkred?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-CCNA-005FB8?style=for-the-badge&logo=cisco&logoColor=white" />
