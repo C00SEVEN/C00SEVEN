@@ -11,10 +11,6 @@ Hands-on expertise in Fortinet firewalls, Cisco routing & switching, and hybrid 
 Recently expanded into cloud networking with Microsoft Azure (AZ-700 certified), focusing on hybrid connectivity, network security, and cloud-based infrastructure design using hands-on lab environments and Terraform automation.
 
 ### 🛡️ Core Competencies
-
-- Cisco Routing & Switching (Enterprise Networking)
-
-### 🛡️ Core Competencies
 - Cisco Routing & Switching
 - Fortinet Firewall Administration & Security Policy Design
 - Network Segmentation & VPN Architectures
