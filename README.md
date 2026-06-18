@@ -1,5 +1,5 @@
 ## Hi, I’m Carlos Almeida
-** Network & Security Engineer | Azure Networking (AZ-700) | Fortinet | Cisco | Terraform (Labs)**
+## Network & Security Engineer | Azure Networking | Fortinet | Cisco | Terraform
 
 <a href="https://www.linkedin.com/in/carlos-almeida-604b9b10a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
